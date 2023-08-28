@@ -1,0 +1,12 @@
+.SearchHeader form {
+  border: 1px solid lightgray;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.SearchHeader Label {
+  margin-bottom: 10px;
+  color: darkblue;
+  font-size: 120%;
+}

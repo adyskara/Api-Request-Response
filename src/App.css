@@ -1,0 +1,11 @@
+.App {
+  margin: 10px;
+}
+.ImageCSS {
+  columns: 250px 5;
+  column-gap: 10px;
+}
+.ImageListCSS {
+  width: 100%;
+  margin-bottom: 10px;
+}
